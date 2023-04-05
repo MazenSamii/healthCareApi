@@ -1,0 +1,3 @@
+PORT = 2611
+DB_URL = mongodb+srv://ahmedMahmoud929:p6wewPb69EE1Vh5P@cluster0.5rihyov.mongodb.net/MedicalCare?retryWrites=true&w=majority
+SECRET_KEY = This my secret ket for my new project College of Physiotherapy,ThAnK yOu
